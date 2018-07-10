@@ -1,0 +1,9 @@
+[Main]
+key = secret
+mqtt_host = 10.11.0.4
+mqtt_port = 1883
+mysql_host = 10.11.0.3
+mysql_port = 3306
+mysql_username = coiot
+mysql_password = coiotpassword
+mysql_database = coiot
